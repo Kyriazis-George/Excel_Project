@@ -1,0 +1,5 @@
+1) Clean and format data in Excel
+2) Summarize sales data using a Pivot Table
+3) Retrieve specific data dynamically
+4) Track key performance indicators (KPIs) using visual elements
+5) Add interactivity using slicers and timelines
